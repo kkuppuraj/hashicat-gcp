@@ -20,3 +20,4 @@ cat << EOM > /var/www/html/index.html
 EOM
 
 echo "Script complete."
+Welcome to ${kkuppuraj}'s app. Replace this text with your own.
